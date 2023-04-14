@@ -13,7 +13,8 @@ make sure to install Astropy inside your IDE env dev
 
 ### ftsFileAnalyzer.py
 *in development*
-What it does? 
+
+What does it do?
 - Show the Filter of the series of fts files
 - Show the Exposure time of the fts files
 
