@@ -2,6 +2,7 @@
 ## Augustana College group
 
 ![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/vietbuiminh/augieMacroConsortium)
+![](https://img.shields.io/badge/astropy-astropy.io.fits-lightgrey)
 
 Faculty: William M. Peterson
 Student: Viet M. Bui, Anna Boardman, William Murillo (class of 2024)
